@@ -1,0 +1,1041 @@
+/*
+	@name website
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1725px; width: 1725px; height: 5997px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_macbook_pro_16____2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1725px;
+	height: 5997px;
+}
+
+#_bg__macbook_pro_16____2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1725px;
+	height: 5997px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_10 {
+	top: 0px;
+	left: 0px;
+	width: 1725px;
+	height: 1193px;
+	background:rgba(8,53,81,1);
+}
+
+
+#rectangle_11 {
+	top: 2407px;
+	left: 0px;
+	width: 1725px;
+	height: 1189px;
+	background:rgba(8,53,81,1);
+}
+
+
+#rectangle_12 {
+	top: 4814px;
+	left: 0px;
+	width: 1726px;
+	height: 1189px;
+	background:rgba(0,0,0,1);
+}
+
+
+#rectangle_13 {
+	top: 1203px;
+	left: 0px;
+	width: 1725px;
+	height: 1188px;
+	background:rgba(8,53,81,1);
+}
+
+
+#vintage_3_2 {
+	top: 1633px;
+	left: 1223px;
+	width: 325px;
+	height: 359px;
+}
+
+
+#vintage_2_2 {
+	top: 1633px;
+	left: 732px;
+	width: 352px;
+	height: 359px;
+}
+
+
+#rectangle_14 {
+	top: 3610px;
+	left: 0px;
+	width: 1725px;
+	height: 1197px;
+}
+
+
+#rectangle_15 {
+	top: 0px;
+	left: 0px;
+	width: 1725px;
+	height: 1178px;
+	background:rgba(8,53,81,1);
+}
+
+
+#pic_hope_2 {
+	top: -7px;
+	left: -15px;
+	width: 834px;
+	height: 1193px;
+}
+
+
+#vintage_1_2 {
+	top: 1633px;
+	left: 229px;
+	width: 364px;
+	height: 361px;
+}
+
+
+#what_we_promise {
+	top: 1397px;
+	left: 341px;
+	width: 937px;
+	height: 231px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 100px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#unique_pieces {
+	top: 2042px;
+	left: 237px;
+	width: 337px;
+	height: 111px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#best_quality_pieces {
+	top: 2050px;
+	left: 664px;
+	width: 422px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#and_very_chic {
+	top: 2050px;
+	left: 1237px;
+	width: 315px;
+	height: 94px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#shop_now {
+	top: 2624px;
+	left: 547px;
+	width: 602px;
+	height: 227px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 100px;
+	line-height: 222px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 78px;
+	margin-top: -78px;
+	color:#FFFFFF;
+}
+
+
+#vintage_4_2 {
+	top: 2847px;
+	left: 101px;
+	width: 329px;
+	height: 415px;
+}
+
+
+#vintage_5_2 {
+	top: 2847px;
+	left: 500px;
+	width: 329px;
+	height: 415px;
+}
+
+
+#vintage_6_2 {
+	top: 2847px;
+	left: 907px;
+	width: 329px;
+	height: 415px;
+}
+
+
+#vintage9_2 {
+	top: 2847px;
+	left: 1315px;
+	width: 328px;
+	height: 415px;
+}
+
+
+#necklaces {
+	top: 3288px;
+	left: 143px;
+	width: 228px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 93px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#bracelets {
+	top: 3288px;
+	left: 544px;
+	width: 229px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 93px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#rings {
+	top: 3288px;
+	left: 966px;
+	width: 228px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 93px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#earrings {
+	top: 3288px;
+	left: 1362px;
+	width: 228px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 93px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#our_jewellery_experience {
+	top: 4005px;
+	left: 463px;
+	width: 849px;
+	height: 346px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 100px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#speak_with_one_of_our_jewellery_consultan {
+	top: 5239px;
+	left: 581px;
+	width: 850px;
+	height: 233px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#customize_your_own_jewellery {
+	top: 4904px;
+	left: 1008px;
+	width: 583px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#contact_us__ {
+	top: 5312px;
+	left: 611px;
+	width: 380px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#schedule_an_appointment {
+	top: 4871px;
+	left: 122px;
+	width: 725px;
+	height: 148px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 143px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#book_now__ {
+	top: 4951px;
+	left: 251px;
+	width: 342px;
+	height: 171px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 166px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#book_now___ek1 {
+	top: 4918px;
+	left: 1113px;
+	width: 341px;
+	height: 171px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 166px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#store_location__ {
+	top: 5020px;
+	left: 254px;
+	width: 401px;
+	height: 171px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 40px;
+	line-height: 166px;
+	text-align: center;
+	line-height: 22px;
+	padding-top: 18px;
+	margin-top: -18px;
+	color:#FFFFFF;
+}
+
+
+#log_in {
+	top: 109px;
+	left: 1375px;
+	width: 72px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6271 {
+	top: 97px;
+	left: 1507px;
+	width: 153px;
+	height: 52px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_6272 {
+	opacity:0.5;
+	top: 96px;
+	left: 1344px;
+	width: 130px;
+	height: 52px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#get_started {
+	top: 109px;
+	left: 1520px;
+	width: 128px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#home {
+	top: 106px;
+	left: 729px;
+	width: 89.4px;
+	height: 35.4px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#about {
+	top: 106px;
+	left: 849px;
+	width: 92.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#services {
+	top: 106px;
+	left: 967px;
+	width: 115.4px;
+	height: 35.4px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#catlogue {
+	top: 106px;
+	left: 1110px;
+	width: 145.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_1 {
+	top: 115px;
+	left: 1260px;
+	width: 26px;
+	height: 15px;
+}
+
+#group_21 {
+	top: 1783px;
+	left: 1607px;
+	width: 59px;
+	height: 61.01px;
+}
+
+#_bg__group_21_ek1 {
+	top: -1783px;
+	left: -1607px;
+	width: 59px;
+	height: 61.01px;
+	background:
+}
+
+
+#circle_16 {
+	top: 0px;
+	left: 0px;
+	width: 59px;
+	height: 61.01px;
+}
+
+
+#arrow {
+	top: 22px;
+	left: 1px;
+	width: 20px;
+	height: 17px;
+}
+
+#group_22 {
+	top: 1782px;
+	left: 112px;
+	width: 59px;
+	height: 61.01px;
+	transform:rotate(-179.75deg);
+}
+
+#_bg__group_22_ek1 {
+	top: -1782px;
+	left: -112px;
+	width: 59px;
+	height: 61.01px;
+	
+	-ms-transform:rotate(-179.75deg);
+	-o-transform:rotate(-179.75deg);
+	-webkit-transform:rotate(-179.75deg);
+	-moz-transform:rotate(-179.75deg);
+	transform:rotate(-179.75deg);
+	background:
+}
+
+
+#circle_16_ek1 {
+	top: -0px;
+	left: 0px;
+	width: 59px;
+	height: 61.01px;
+}
+
+
+#arrow_ek1 {
+	top: 22px;
+	left: 39px;
+	width: 20px;
+	height: 17px;
+}
+
+#_08 {
+	top: 5397px;
+	left: -78px;
+	width: 1920px;
+	height: 321px;
+}
+
+#_bg___08_ek1 {
+	top: -5397px;
+	left: 78px;
+	width: 1920px;
+	height: 321px;
+	background:
+}
+
+
+#rectangle_18 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 321px;
+	background:rgba(0,0,0,1);
+}
+
+
+#subscribe_to_our_newsletter {
+	top: 47px;
+	left: 395px;
+	width: 1124px;
+	height: 140.8px;
+	overflow: hidden;
+	font-family: EB Garamond;
+	font-size: 48px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#group_13 {
+	top: 207px;
+	left: 612px;
+	width: 665.25px;
+	height: 50px;
+}
+
+#_bg__group_13_ek1 {
+	top: -5604px;
+	left: -534px;
+	width: 665.25px;
+	height: 50px;
+	background:
+}
+
+#group_20 {
+	top: 0px;
+	left: 0px;
+	width: 665.25px;
+	height: 50px;
+}
+
+#_bg__group_20_ek1 {
+	top: -5604px;
+	left: -534px;
+	width: 665.25px;
+	height: 50px;
+	background:#;
+}
+
+#light_button_secondary_text {
+	top: 0px;
+	left: 495px;
+	width: 170px;
+	height: 50px;
+}
+
+#_bg__light_button_secondary_text_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 170px;
+	height: 50px;
+	background:#;
+}
+
+
+#rectangle {
+	top: -2px;
+	left: -2px;
+	width: 170px;
+	height: 50px;
+	border: 2px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#button {
+	top: 17px;
+	left: 35px;
+	width: 103.4px;
+	height: 21.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#enter_you_email_address {
+	top: 12px;
+	left: 31px;
+	width: 245.6px;
+	height: 39.29px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	line-height: 27.200000762939px;
+	margin-top: -3.7333335876465px;
+	height: 55.29px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_ek1 {
+	top: -2px;
+	left: -2px;
+	width: 495px;
+	height: 50px;
+	border: 2px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+#_09 {
+	top: 5718px;
+	left: -78px;
+	width: 1920px;
+	height: 375px;
+}
+
+#_bg___09_ek1 {
+	top: -5718px;
+	left: 78px;
+	width: 1920px;
+	height: 375px;
+	background:
+}
+
+
+#rectangle_21 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 375px;
+	background:rgba(8,53,81,1);
+}
+
+
+#mask_group {
+	top: 0px;
+	left: 78px;
+	width: 1725px;
+	height: 375px;
+}
+
+#logo {
+	top: 75px;
+	left: 399px;
+	width: 189.79px;
+	height: 43px;
+}
+
+#_bg__logo_ek1 {
+	top: -5793px;
+	left: -321px;
+	width: 189.79px;
+	height: 43px;
+	background:
+}
+
+
+#precious_treasures {
+	top: 0px;
+	left: 58px;
+	width: 131.97px;
+	height: 43px;
+}
+
+
+#vector__stroke_ {
+	top: 0px;
+	left: 0px;
+	width: 47.82px;
+	height: 42.79px;
+}
+
+
+#home_about_shop_contact {
+	top: 97px;
+	left: 874px;
+	width: 113.6px;
+	height: 132.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 148.6px;
+	color:#AAAAAA;
+}
+
+
+#faq_shipping_tracking_returns {
+	top: 97px;
+	left: 1066px;
+	width: 130.6px;
+	height: 132.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 148.6px;
+	color:#AAAAAA;
+}
+
+
+#facebook_instagram_youtube_twitter {
+	top: 97px;
+	left: 1276px;
+	width: 143.6px;
+	height: 132.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 148.6px;
+	color:#AAAAAA;
+}
+
+
+#site_map {
+	top: 65px;
+	left: 874px;
+	width: 91.6px;
+	height: 36.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 52.6px;
+	color:#FFFFFF;
+}
+
+
+#services_ek1 {
+	top: 65px;
+	left: 1066px;
+	width: 94.6px;
+	height: 36.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 52.6px;
+	color:#FFFFFF;
+}
+
+
+#social {
+	top: 65px;
+	left: 1276px;
+	width: 75.6px;
+	height: 36.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -5.3333333333333px;
+	height: 52.6px;
+	color:#FFFFFF;
+}
+
+
+#copyright_dotcreativemarket {
+	top: 318px;
+	left: 399px;
+	width: 316.6px;
+	height: 25.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20.799999237061px;
+	letter-spacing: 3.2px;
+	color:#AAAAAA;
+}
+
+
+#line_1 {
+	top: 281px;
+	left: 398px;
+	width: 1124px;
+	height: 0px;
+}
+
+
+#texture_1_4 {
+	opacity:0.8;
+	top: 4067px;
+	left: 1329px;
+	width: 2997px;
+	height: 1999px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	background:rgba(255,255,255,0);
+}
+
+
+#our_brand_features_vintage_jewellery_but_with_a_modern_twist__vintage_stones___pearls___gold_and_silver_ {
+	top: 685px;
+	left: 918px;
+	width: 774.6px;
+	height: 263.6px;
+	overflow: hidden;
+	font-family: Tenor Sans;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#what_is_hope {
+	top: 525px;
+	left: 918px;
+	width: 700.1px;
+	height: 81.1px;
+	overflow: hidden;
+	font-family: Noto Serif JP;
+	font-size: 51px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 66.29999756813px;
+	color:#FFFFFF;
+}
+
+
+#image_70 {
+	top: 5535px;
+	left: 11px;
+	width: 1725px;
+	height: 465px;
+}
+
+#group_24 {
+	top: 870px;
+	left: 918px;
+	width: 303px;
+	height: 54px;
+}
+
+#_bg__group_24_ek1 {
+	top: -870px;
+	left: -918px;
+	width: 303px;
+	height: 54px;
+	background:
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 303px;
+	height: 54px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+
+#explore_collection {
+	top: 13px;
+	left: 28px;
+	width: 244px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color:#000000;
+}
+
+#group_27 {
+	top: 4321px;
+	left: 748px;
+	width: 303px;
+	height: 54px;
+}
+
+#_bg__group_27_ek1 {
+	top: -4321px;
+	left: -748px;
+	width: 303px;
+	height: 54px;
+	background:
+}
+
+
+#rectangle_6273 {
+	top: 0px;
+	left: 0px;
+	width: 303px;
+	height: 54px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+
+#customise_now {
+	top: 13px;
+	left: 28px;
+	width: 244px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
